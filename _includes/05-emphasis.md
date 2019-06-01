@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Written, spoken, and reading fluency in Mandarin Chinese*
+_Numerical analysis_
+
+**Open source research**
+__Cross-cultural communication__
+
+_I have **strong** leadership skills_
