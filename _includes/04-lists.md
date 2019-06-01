@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Powerlifting
+* Cooking
+* Travelling
+* Learning languages
+  * Mandarin Chinese
+* Gaming
+  * Pokemon
+* Meeting interesting people
