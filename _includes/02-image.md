@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Cheesecake](https://www.onceuponachef.com/images/2017/12/NY-Cheesecake-760x574.jpg)
